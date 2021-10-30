@@ -5,4 +5,4 @@ featured: true
 weight: 1
 ---
 
-La communication digitale
+Paraitre premier dans les résultats de recherche n'est pas une attitude sous l'effet de 
