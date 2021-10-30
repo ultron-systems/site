@@ -2,8 +2,11 @@ main:
   - name: "Services"
     url: "/services/"
     weight: 2
-  - name: "Equipe"
-    url: "/team/"
+#  - name: "Equipe"
+#    url: "/team/"
+#    weight: 3
+  - name: "Offres de réductions"
+    url: "/reductions"
     weight: 3
   - name: "Notre motivation"
     url: "/about/"
